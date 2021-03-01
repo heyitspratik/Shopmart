@@ -7,7 +7,7 @@ The goal is to build an E-commerce web application which enables the user login/
 
 # System Design
 
-![Capture](https://user-images.githubusercontent.com/62649065/109478257-052a9e80-7a9f-11eb-8558-e1ab0ebe9616.PNG)
+![i78](https://user-images.githubusercontent.com/62649065/109492991-d4079980-7ab1-11eb-9cb3-6da93038df79.jpg)
 
 
 # Steps to run application:
