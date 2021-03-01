@@ -38,7 +38,7 @@ The goal is to build an E-commerce web application which enables the user login/
 
 
 # Author
-Pratik Ahir
+[Pratik Ahir](https://www.github.com/heyitspratik)
 
 
 
