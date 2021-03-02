@@ -13,10 +13,10 @@ The goal is to build an E-commerce web application which enables the user login/
 # Steps to run application:
 1. First of all install all the packages which are included in requirements.txt
 2. Run python manage.py makemigrations which generates the SQL commands
-3. Run python manage.py migrate which executes those SQL commands in the database file
-3. Run python manage.py createsuperuser to which creates admin as a super user.
+3. Run python manage.py migrate which executes those SQL commands in the database.
+3. Run python manage.py createsuperuser to create an admin as a super user.
 4. After successfully creating admin username and password run python manage.py runserver to run an emulated server on your local computer
-5. Now login in to admin (i.e. http://127.0.0.1:8000/admin) where you would see all the tables generated due to migration command
+5. Now login in to admin (i.e. http://127.0.0.1:8000/admin) where you would see all the tables generated through migration command
 6. Now This is the most important you must need to update product table with your own images/prices/product-name etc. without this you would not see any product which popped up in the application, also this images will directly be saved in media folder which will be created automatically in the root folder
 7. Try to Signup/login as a user and you will see each and every products and their details uploaded by admin
 8. and that's it...Happy Hacking
